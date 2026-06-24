@@ -1,0 +1,6 @@
+{
+  "name": "ClassDesk",
+  "description": "ClassDesk is an online assignment management system for teachers and students, featuring class creation, student invitation codes, assignment uploads, file submissions, grading, and direct feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
